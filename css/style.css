@@ -1,0 +1,108 @@
+h1{
+	text-align: center;
+	color: green;
+	font-size: 60px;
+	border: dotted brown;
+}
+p{
+	color: black;
+	font-size: 30px;
+}
+img{
+	width:700px ;
+}
+.imagetag{
+	font-size:20px;
+	font-color: green;
+
+    }
+	
+ }
+ #drist{
+ 	font-size: 20px;
+ 	text-align: center;
+ 	color: green;
+ 	background-color: rgb(0, 0, 0, .3);
+ }
+ .drist_1{
+ 	min-height:30px;
+ 	width: 90px;
+ 	text-align: center;
+
+ }
+ .wrapper{
+    overflow: hidden;
+ 	background-color:saddlebrown;
+ 	min-height: 90px;
+ 	width: 80%;
+ 	border:10px solid teal;
+ }
+.contact{
+	float:left;
+	background-color: deepskyblue;
+	width: 60%;
+	min-height: 30px;
+	border: 5px solid black;
+	text-align: center;
+	box-sizing: border-box;
+	
+	}
+.Discription{
+	float:right;
+	background-color: blueviolet;
+	width: 40%;
+	min-height: 30px;
+	border: 5px solid black;
+	text-align: center;
+	box-sizing: border-box;
+}
+.drist_2{
+ 	min-height:30px;
+ 	width: 90px;
+ 	text-align: center;
+
+ }
+ .wrapper{
+    overflow: hidden;
+ 	background-color:saddlebrown;
+ 	min-height: 90px;
+ 	width: 80%;
+ 	border:10px solid teal;
+ }
+.contact{
+	float:left;
+	background-color: deepskyblue;
+	width: 60%;
+	min-height: 30px;
+	border: 5px solid black;
+	text-align: center;
+	box-sizing: border-box;
+	
+	}
+.container{}
+.box{
+	width:33.33%;
+	height: 100px; 
+	float:left;
+}
+.pink{
+	background-color: pink;
+}
+.skyblue{
+	background-color: skyblue;
+}
+.blue{
+	background-color: blue;
+}
+.container2{
+}
+.box2{
+	overflow: hidden;
+	width: 100px;
+	height: 100px;
+	background-color: violet;
+	margin: 10px;
+	padding: 5px;
+	border:3px;
+
+}
